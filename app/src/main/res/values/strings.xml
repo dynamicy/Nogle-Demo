@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Nogle</string>
+    <string name="title_market">A</string>
+    <string name="title_spot">B</string>
+    <string name="title_future">C</string>
+    <string name="title_settings">D</string>
+</resources>
